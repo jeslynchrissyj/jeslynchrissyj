@@ -133,10 +133,6 @@ To join a forward-thinking tech team where I can contribute innovative solutions
 
   <br/>
 
-  [![LeetCode Activity](https://leetcard.jacoblin.cool/jeslynchrissyj?theme=dark&ext=contest)](https://leetcode.com/u/jeslynchrissyj/)
-
-  <br/>
-
   <a href="https://leetcode.com/u/jeslynchrissyj/">
     <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
@@ -151,14 +147,6 @@ To join a forward-thinking tech team where I can contribute innovative solutions
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jeslynchrissyj&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeslynchrissyj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
