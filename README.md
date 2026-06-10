@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jeslyn%20Chrissy%20Jayaprakash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20Musician%20%F0%9F%8E%B5&descAlignY=62&descSize=16" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%21+I'm+Jeslyn+Chrissy+%F0%9F%91%8B;B.Tech+IT+%7C+3rd+Year+%40+VSB+Engineering;Full+Stack+Developer+%7C+AI+Explorer;Java+%2B+Python+%2B+Spring+Boot+%2B+MySQL;Musician+%F0%9F%8E%B5+%7C+Reader+%F0%9F%93%9A+%7C+Builder+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%21+I'm+Jeslyn+Chrissy+%F0%9F%91%8B;B.Tech+IT+%7C+student+%40+VSB+Engineering;Full+Stack+Developer+%7C+AI+Explorer;Java+%2B+Python+%2B+Spring+Boot+%2B+MySQL;Musician+%F0%9F%8E%B5+%7C+Reader+%F0%9F%93%9A+%7C+Builder+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
